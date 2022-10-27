@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: "Men\xFA principal"
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 2fb7636ae7b8c1f4eab6820cf1720f14, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 51dabd77cfea1e744b4843bb0ff20f05, type: 2}
+  - {fileID: 11400000, guid: 766c7097510457349801f3eac6308d12, type: 2}
+  - {fileID: 11400000, guid: 64dc39c43cdac1d46b62456ee80dbe64, type: 2}
+  - {fileID: 11400000, guid: ea0eb18c0ce1f3f4cb8ed96663413d33, type: 2}
+  - {fileID: 11400000, guid: e9deea9dd7a263048b3a90d9f4516d2d, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

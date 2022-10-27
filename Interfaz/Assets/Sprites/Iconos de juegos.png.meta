@@ -144,7 +144,7 @@ TextureImporter:
       213: 3849628792151408145
     second: Iconos de juegos_46
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -242,6 +244,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1252,6 +1266,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Iconos de juegos_8: 5419071844998242359
+      Iconos de juegos_39: 5559282108700560276
+      Iconos de juegos_0: 8434514449384821001
+      Iconos de juegos_14: 3869714710264517610
+      Iconos de juegos_16: 1422466641030020798
+      Iconos de juegos_9: 2728884371975809983
+      Iconos de juegos_18: 7683617239996377886
+      Iconos de juegos_29: 4632692291346369592
+      Iconos de juegos_22: 7820229767010553153
+      Iconos de juegos_10: 6077134623184485760
+      Iconos de juegos_4: -1021487962241334261
+      Iconos de juegos_25: -2215967449419914903
+      Iconos de juegos_1: -7161110702989824081
+      Iconos de juegos_27: 1770518229117396167
+      Iconos de juegos_7: -3060170785899483272
+      Iconos de juegos_45: 8078641904815509201
+      Iconos de juegos_5: 3127844133325584124
+      Iconos de juegos_32: 4580348124903841973
+      Iconos de juegos_11: -1587376436908102661
+      Iconos de juegos_30: 4648669662193820062
+      Iconos de juegos_43: 252145513511819580
+      Iconos de juegos_44: -3809722785449479318
+      Iconos de juegos_34: -7397776648346868166
+      Iconos de juegos_38: 1612315830276190572
+      Iconos de juegos_21: -3999614371792193140
+      Iconos de juegos_15: 5672995859219070547
+      Iconos de juegos_2: 4097130220677033472
+      Iconos de juegos_20: -4064836171744629724
+      Iconos de juegos_28: 1418346711131993600
+      Iconos de juegos_12: 5513087302846884973
+      Iconos de juegos_13: 8660859838186371620
+      Iconos de juegos_41: -469255536772488544
+      Iconos de juegos_46: 3849628792151408145
+      Iconos de juegos_40: 1529905832973383601
+      Iconos de juegos_33: -5600019936767752174
+      Iconos de juegos_24: -6718007407413562190
+      Iconos de juegos_3: 8824176692105302824
+      Iconos de juegos_42: 1604499206469966991
+      Iconos de juegos_26: 5487965787264874785
+      Iconos de juegos_6: 1393157898868049234
+      Iconos de juegos_35: -493016489452152197
+      Iconos de juegos_36: 3536161659036707393
+      Iconos de juegos_23: 4457810213875644120
+      Iconos de juegos_31: 4003569098677536452
+      Iconos de juegos_17: -1037669564634749690
+      Iconos de juegos_37: -8570906555097522537
+      Iconos de juegos_19: -2364193757282269334
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
