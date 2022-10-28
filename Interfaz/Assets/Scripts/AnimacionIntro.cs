@@ -12,7 +12,7 @@ public class AnimacionIntro : MonoBehaviour
     void Start()
     {
         //Oculto mi logo (en 0 segundos; de manera inmediata).
-        LeanTween.moveLocalY(logo, 390f, 0f);
+        LeanTween.moveLocalY(logo, 1000f, 0f);
         //Hago aparecer mi logo y que se mueva hasta el centro de la pantalla en 2 segundos. El argumento "setEase" sirve para hacer
         //una curva.
         LeanTween.moveLocalY(logo, 0f, 3f).setEaseOutBounce().setOnComplete(Latido);

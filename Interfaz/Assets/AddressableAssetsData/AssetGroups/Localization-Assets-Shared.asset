@@ -22,6 +22,11 @@ MonoBehaviour:
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77d7f03bb1807e246abe61cf7c29db5e
+    m_Address: Assets/Localization/Banderas Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 21741b8a99989df408e4b12bef3636bf, type: 2}
   m_SchemaSet:
